@@ -91,6 +91,8 @@ p{
 
 .container.grow {
   animation: grow 3s linear forwards;
+  margin: 0;
+  padding: 0;
 }
 
 @keyframes grow {
